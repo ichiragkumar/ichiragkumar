@@ -12,8 +12,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichiragkumar&theme=dark&hide_border=false" style="width: 100%;"/>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiragkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 49%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ichiragkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 49%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiragkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 49%; height: 20%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ichiragkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 49%; height: 20%;" />
 </div>
 
 
