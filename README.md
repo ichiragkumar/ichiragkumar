@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋 CHIRAG KUMAR</h2>
 
 <div align="right">
-  [![](https://visitcount.itsvg.in/api?id=ichiragkumar&icon=8&color=12)](https://visitcount.itsvg.in)
-  ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichiragkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imchiragkumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ichiragkumar)
+[![](https://visitcount.itsvg.in/api?id=ichiragkumar&icon=8&color=12)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichiragkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imchiragkumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ichiragkumar)
 </div>
 
 # 💻 Tech Stack:
